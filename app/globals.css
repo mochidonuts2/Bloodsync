@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.primary-bg {
+  background-color: #880808;
+}
+
+.primary-text {
+  color: #880808;
+}
+
+.secondary-text {
+  color: #da1e37;
+}
+
+.primary-btn {
+  background-color: #880808;
+  color: white;
+}
+
+.secondary-btn {
+  border: 1px;
+  border-style: solid;
+  border-color: #880808;
+  color: #880808;
+}
